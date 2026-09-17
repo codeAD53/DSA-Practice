@@ -9,3 +9,4 @@ My Solutions to problems from Hackerank, LeetCode, college training, and other D
 | 1 | Game Winner | Arrays | HackerRank | ✅ |
 | 2 | Balloon Cost | Arrays | HackerRank | ✅ |
 | 3 | Seating Plan | Arrays | Hackerrank | ✅ |
+| 4 | Seats in a Classroom/theater | Arrays | Hackerramk | ✅ |
