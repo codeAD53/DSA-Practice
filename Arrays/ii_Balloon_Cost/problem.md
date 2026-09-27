@@ -54,6 +54,8 @@ For each test case, print the minimum cost of purchasing the balloons.
 0 0
 0 1
 0 0
+```
+```text
 Output
 69
 14
