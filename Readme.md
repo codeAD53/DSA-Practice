@@ -11,6 +11,7 @@ My solutions to common data structures and algorithms problems, coding exercises
 | 3 | Seating Plan | Arrays | HackerRank | ✅ |
 | 4 | Seats in a Classroom/theater | Arrays | HackerRank | ✅ |
 | 5 | Jack and Jill | Arrays | HackerRank | ✅ |
+| 6 | Event in College | Arrays | HackerRank | ✅ |
 
 
 ## Additional DSA Practice
