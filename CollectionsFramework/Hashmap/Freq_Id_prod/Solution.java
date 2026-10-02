@@ -22,5 +22,6 @@ public class Solution {
         for(Map.Entry<Integer,Integer> entry: map.entrySet()){
             System.out.println(entry.getKey()+"->"+entry.getValue());
         }
+        sc.close();
     }
 }

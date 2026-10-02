@@ -48,6 +48,6 @@ public class Solution {
             default:
                 break;
         }
-
+        sc.close();
     }
 }

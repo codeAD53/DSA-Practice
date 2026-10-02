@@ -20,5 +20,6 @@ public class Solution {
         }else{
             System.out.println("There is no Lipogram");
         }
+        sc.close();
     }
 }

@@ -29,6 +29,6 @@ public class Solution {
             }        
         }
         System.out.println(winner +" "+ maxLead);
-
+        sc.close();
     }
 }

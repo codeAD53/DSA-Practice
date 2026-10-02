@@ -27,5 +27,6 @@ public class Solution {
     }else{
         System.out.println(original+" is not a Strong number");
     }
+    sc.close();
     }
 }

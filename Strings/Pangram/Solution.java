@@ -25,5 +25,6 @@ public class Solution {
         }else{
             System.out.println("It is not a Pangram");
         }
+        sc.close();
     }
 }

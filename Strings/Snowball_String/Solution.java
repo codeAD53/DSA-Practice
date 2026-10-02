@@ -8,11 +8,13 @@ public class Solution {
         String string = sc.nextLine();
         if(string.isEmpty()){
             System.out.println("Invalid Input");
+            sc.close();
             return;
         }
         char last = string.charAt(string.length() - 1);
         if(last != '.' && last != '?'){
             System.out.println("Incorrect terminating character");
+            sc.close();
             return;
         }
         string = string.substring(0,string.length()-1);
@@ -31,5 +33,6 @@ public class Solution {
         }else{
             System.out.println("It is not a snowball string");
         }
+        sc.close();
     }
 }

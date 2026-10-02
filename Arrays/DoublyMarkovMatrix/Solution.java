@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Solution {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        try (Scanner sc = new Scanner(System.in)) {
         int N = sc.nextInt();
 
         if (N < 1 || N > 100) {
@@ -42,6 +42,6 @@ public class Solution {
         }else{
             System.out.println("It is not a Doubly Matrix");
         }
-       
+        }
     }
 }

@@ -31,5 +31,6 @@ public class Solution {
             int minimum = Math.min(arrange1Cost,arrange2Cost);
             System.out.println(minimum);
         }
+        sc.close();
     }
 }

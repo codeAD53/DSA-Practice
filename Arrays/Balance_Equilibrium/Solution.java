@@ -31,5 +31,6 @@ public class Solution {
         }else{
             System.out.println("No Equilibrum Exists");
         }
+        sc.close();
     }
 }

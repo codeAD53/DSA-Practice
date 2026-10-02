@@ -27,6 +27,6 @@ public class Solution {
         }else{
             System.out.println("Not a Programmatic");
         }
-
+        sc.close();
     }
 }

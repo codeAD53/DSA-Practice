@@ -22,5 +22,6 @@ public class Solution {
         }else{
             System.out.println(N+" is not a Prime number");
         }
+        sc.close();
     }
 }

@@ -9,6 +9,7 @@ public class Solution {
         int N = sc.nextInt();
         if(N<0){
          System.out.println("Invalid Input");
+         sc.close();
          return;
         }
         while(N % 2 == 0){
@@ -28,6 +29,7 @@ public class Solution {
         }else{
             System.out.println("Not a hamming number");
         }
+        sc.close();
     }
     
 }
