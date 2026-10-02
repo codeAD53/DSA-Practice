@@ -15,6 +15,7 @@ My solutions to common data structures and algorithms problems, coding exercises
 | 7 | Colors of balls | Arrays | HackerRank | ✅ |
 | 8 | College Parking | Arrays | HackerRank | ✅ |
 | 9 | Assign Chocolates | Arrays | HackerRank | ✅ |
+| 10 | Island Perimeter | Arrays | LeetCode | ✅ |
 
 
 ## Additional DSA Practice
