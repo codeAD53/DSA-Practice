@@ -14,6 +14,7 @@ My solutions to common data structures and algorithms problems, coding exercises
 | 6 | Event in College | Arrays | HackerRank | ✅ |
 | 7 | Colors of balls | Arrays | HackerRank | ✅ |
 | 8 | College Parking | Arrays | HackerRank | ✅ |
+| 9 | Assign Chocolates | Arrays | HackerRank | ✅ |
 
 
 ## Additional DSA Practice

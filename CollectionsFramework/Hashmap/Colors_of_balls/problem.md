@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-In a market, a shopkeeper is selling different colors of balls. He sells N number of different colors of balls . The task is to find the color (odd) of the balls which is present odd number of times in the bunch of balls.
+In a market, a shopkeeper is selling different colors of balls. He sells `N` number of different colors of balls . The task is to find the color (odd) of the balls which is present odd number of times in the bunch of balls.
 
 **Note:**
 
@@ -10,9 +10,9 @@ If there is more than one color which is odd in number, then the first color in 
 
 ## Input Format
 
-Input N 
+Input `N` 
 
-Input N colors in array
+Input `N` colors in array
 
 ## Constraints
 
